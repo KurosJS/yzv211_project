@@ -1,1 +1,2 @@
-#this is the main.py file
+#printing 'hello'
+print('hello')
