@@ -1,8 +1,17 @@
-https://catalog.data.gov/dataset/livestock-and-meat-international-trade-data
+temperature.csv
 https://www.kaggle.com/code/sevgisarac/climate-change/data?select=Temperature_change_Data.csv
+
+kaggle_vegs21
 https://www.kaggle.com/datasets/sezginvural/turkey-agricultural-production-20192020
-https://www.kaggle.com/datasets/ouzhan00/trkiye-2020-hava-kalitesiturkey-2020-air-quality
-https://datahub.io/core/co2-ppm#resource-co2-gr-gl
-https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS?locations=TR
-https://biruni.tuik.gov.tr/medas/?kn=92&locale=en
-https://data.oecd.org/agrland/agricultural-land.htm
+
+emission.csv
+https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?locations=TR
+
+vegetables22.xls
+cereal_crops22.xls
+https://data.tuik.gov.tr/Bulten/Index?p=Crop-Production-2nd-Estimation-2022-45503
+
+Kaggle, WorldBank, TUIK
+
+
+
