@@ -1,0 +1,156 @@
+﻿Product Category,Product Name,2020Production,2021Production
+Cereals,Wheat,20500000,17650000
+Cereals,Maize,6500000,6500000
+Cereals,Rice in the husk,980000,1000000
+Cereals,Barley,8300000,5750000
+Cereals,Rye,295681,200000
+Cereals,Oats,314528,286000
+Cereals,Spelt,2820,4070
+Cereals,Millet,5711,4320
+Cereals,Canary grass,12551,5180
+Cereals,Triticale,276212,226000
+Cereals,Sorghum,5,24
+Potatoes & Dry Pulses,Potatoes,5200000,5100000
+Potatoes & Dry Pulses,Broad beans (to consume),5002,4390
+Potatoes & Dry Pulses,Pea,1538,2060
+Potatoes & Dry Pulses,Chick pea,630000,475000
+Potatoes & Dry Pulses,Dry beans,279518,302000
+Potatoes & Dry Pulses,Lentil (red),328418,230000
+Potatoes & Dry Pulses,Lentil (green),42397,35000
+Potatoes & Dry Pulses,Kidney beans,1324,1300
+Potatoes & Dry Pulses,Wild vetches,2162,1290
+Potatoes & Dry Pulses,Fenugreek,713,760
+Potatoes & Dry Pulses,Grass pea,1662,1320
+High Starch,Sweet potatoes,248,670
+High Starch,Jerusalem artichokes,1144,1320
+High Starch,Salep plant,0,80
+Oil Seeds,Soybeans ,155225,180000
+Oil Seeds,Groundnuts ,215927,229000
+Oil Seeds,Sunflower,2067004,2390000
+Oil Seeds,Sesame ,18648,17700
+Oil Seeds,Safflower ,21325,20000
+Oil Seeds,Rapeseed,121542,140000
+Oil Seeds,Flax (seed) ,0,0.5
+Oil Seeds,Hemp (seed),273,24
+Oil Seeds,Poppy (seed),20542,21000
+Tobacco,Tobacco,79081,73000
+Sugar,Sugar beets,23025738,19500000
+Sugar,Sugar cane,230,250
+Textile Raws,Cotton (raw),1773646,2250000
+Textile Raws,Flax (fibre) ,4,6
+Textile Raws,Hemp (fibre) ,9,10
+Perfumery & Pharmacy,Poppy (capsule),20542,21000
+Perfumery & Pharmacy,Lupin,207,130
+Perfumery & Pharmacy,Hop,1908,1860
+Perfumery & Pharmacy,Cow vetches,46856,39000
+Perfumery & Pharmacy,Alfaalfa (seed),1695,1920
+Perfumery & Pharmacy,Clover (seed),0,0
+Perfumery & Pharmacy,Sainfoin (seed),248,110
+Perfumery & Pharmacy,Grass seed,0,1420
+Perfumery & Pharmacy,Melissa,150,270
+Perfumery & Pharmacy,Nettle,0.1,0.5
+Perfumery & Pharmacy,Salvia,1271,1840
+Perfumery & Pharmacy,Rose (for oil),18202,17840
+Perfumery & Pharmacy,Lavander,3499,5460
+Perfumery & Pharmacy,Sugar beet seed,2317,1580
+Root Vegetables,Onion (green),129023,122880
+Root Vegetables,Onion (dry),2280000,2400000
+Root Vegetables,Garlic (green),28552,32600
+Root Vegetables,Garlic (dry),116840,140600
+Root Vegetables,Leek,225480,211600
+Root Vegetables,Carrots,588778,528900
+Root Vegetables,Turnip,2599,2350
+Root Vegetables,Beets (red),7881,10150
+Root Vegetables,Celeriac,23159,24210
+Root Vegetables,Horse radish,14274,14270
+Root Vegetables,Red radish,204687,209110
+Root Vegetables,White radish,4433,4470
+Vegetables cultivated for their fruits,Tomatoes,13204015,12825000
+Vegetables cultivated for their fruits,Cucumber,1886239,1848000
+Vegetables cultivated for their fruits,Hairy cucumber,40644,36900
+Vegetables cultivated for their fruits,"Pepper (for processed, capia )",1291091,1467000
+Vegetables cultivated for their fruits,Pepper (bell),389957,429000
+Vegetables cultivated for their fruits,Pepper (green),838890,909000
+Vegetables cultivated for their fruits,Banana pepper,116967,161000
+Vegetables cultivated for their fruits,Okra,40654,32060
+Vegetables cultivated for their fruits,Eggplant,835422,826500
+Vegetables cultivated for their fruits,Squash,547208,606800
+Vegetables cultivated for their fruits,Pumpkin,93659,91000
+Vegetables cultivated for their fruits,Squash (for appetizer),57184,62400
+Leguminous,Peas (green) ,108492,110200
+Leguminous,Beans (green) ,547349,520800
+Leguminous,Cowpea (green),16781,14150
+Leguminous,Broad beans (green) ,54317,40730
+Leguminous,Calavence (green),88107,77460
+Vegetables cultivated for their fruits,Melon,1724856,1680000
+Vegetables cultivated for their fruits,Watermelon ,3491554,3437000
+Vegetables cultivated for their fruits,Pepino,50,86
+Vegetables cultivated for their fruits,Bitter melon,0,63
+Leafy Vegetables,Cauliflower ,216334,231800
+Leafy Vegetables,Broccoli ,95057,101000
+Leafy Vegetables,Cabbages (white),594143,597000
+Leafy Vegetables,Cabbages (red),198516,199000
+Leafy Vegetables,Brussels sprouts,2889,2710
+Leafy Vegetables,Cabbages (kale),56100,58500
+Leafy Vegetables,Lettuce (loose leaf),207234,224800
+Leafy Vegetables,Lettuce (cos),225639,208000
+Leafy Vegetables,Lettuce (iceberg),87278,94800
+Leafy Vegetables,Artichokes,39280,39600
+Leafy Vegetables,Celery,1729,1580
+Leafy Vegetables,Spinach,231515,222750
+Leafy Vegetables,Swiss chard,7137,7690
+Leafy Vegetables,Purslane,5702,11980
+Leafy Vegetables,Parsley,97760,102720
+Leafy Vegetables,Rocket,15045,21550
+Leafy Vegetables,Cress,8352,8150
+Leafy Vegetables,Mint,23471,26400
+Leafy Vegetables,Dill,8267,9060
+Leafy Vegetables,Asparagus,1079,1150
+Mushroom,Cultivated Mushroom,55455,61280
+"Banana,fig,kiwi,avocado",Bananas  ,728133,867000
+"Banana,fig,kiwi,avocado",Figs ,320000,320000
+"Banana,fig,kiwi,avocado",Kiwi ,73745,77400
+"Banana,fig,kiwi,avocado",Avocado ,5923,8750
+Citrus,Oranges ,1333975,1742000
+Citrus,Mandarin,1585629,1819000
+Citrus,Lemons ,1188517,1550000
+Citrus,Grape fruits ,238012,249000
+Citrus,Sour oranges ,2609,2610
+Fresh Fruit,Apples,4300486,4286000
+Fresh Fruit,Pears,545569,535000
+Fresh Fruit,Quinces,189251,191300
+Fresh Fruit,Loquats,16402,15900
+Fresh Fruit,Medlar,4964,5000
+Fresh Fruit,Peaches,892048,901500
+Fresh Fruit,Plums,329056,334000
+Fresh Fruit,Apricots,833398,842000
+Fresh Fruit,Wild apricots,17005,17500
+Fresh Fruit,Cherries,724944,675800
+Fresh Fruit,Sour cherries,189184,180800
+Fresh Fruit,Cornel,14231,13710
+Fresh Fruit,Oleaster,4050,4050
+Fresh Fruit,Jujube,1229,1610
+Fresh Fruit,Strawberries,546525,657400
+Fresh Fruit,Raspberry,5445,5110
+Fresh Fruit,Mulberry,70620,71900
+Fresh Fruit,Pomegranates,600021,641000
+Fresh Fruit,Persimmons,60661,76290
+Fresh Fruit,Carobs,18806,18530
+Fresh Fruit,Blackberry,2511,2720
+Fresh Fruit,Blueberry,1287,1990
+Olive and Nuts,Olive ,1316626,1782197
+Olive and Nuts,Almonds ,159187,173000
+Olive and Nuts,Hazelnuts ,665000,684000
+Olive and Nuts,Walnuts ,286706,320000
+Olive and Nuts,Chestnuts ,76045,76000
+Olive and Nuts,Pistachios ,296376,119355
+Spices Crops & Tea,Dry pepper ,256735,285000
+Spices Crops & Tea,Anise ,10716,7020
+Spices Crops & Tea,Cumin ,13926,8080
+Spices Crops & Tea,Thyme ,23866,24300
+Spices Crops & Tea,Black cumin,3412,6270
+Spices Crops & Tea,Fennel,4365,2510
+Spices Crops & Tea,Coriander,188,190
+Spices Crops & Tea,Heather,1788,1910
+Spices Crops & Tea,Capers,3,13
+Spices Crops & Tea,Green tea leaves,1417685,1400000
