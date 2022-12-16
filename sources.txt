@@ -10,5 +10,9 @@ https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?locations=TR
 vegetables22.xls
 cereal_crops22.xls
 https://data.tuik.gov.tr/Bulten/Index?p=Crop-Production-2nd-Estimation-2022-45503
+https://data.tuik.gov.tr/Kategori/GetKategori?p=tarim-111&dil=2
 
 Kaggle, WorldBank, TUIK
+
+
+
